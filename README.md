@@ -8,6 +8,18 @@ We used the relational database service provided by AWS to create a cloud-hosted
 - pgAdmin & PostgreSQL 
 - AWS
 ## Results
+The following queries highlight the successful ETL process:
+
+<p align = "center">
+<img src="images/customers.png" width=450>
+<img src="images/products.png" width=450>
+</p>          
+
+<p align = "center">
+<img src="images/review.png" width=400>
+<img src="images/vine.png" width=450>
+</p> 
+
 - There are a total of 248 reviews from products included in the vine program.
   - Of those 248 reviews, 102 are five-star reviews, which amounts to roughly 41 % of total reviews.
 
