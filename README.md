@@ -1,6 +1,7 @@
 # Amazon_Vine_Analysis
 ## Project Overview
-
+In the following project, we extracted Amazon product reviews from a dataset stored on Amazon S3. We then leveraged the cloud to streamline the ETL process with AWS, Apache Spark, and PostgreSQL. 
+We used the relational database service provided by AWS to create a cloud-hosted server in pgAdmin. From there, we used Google Colab to harness the computing power of Apache Spark to extract, transform, and load the dataset containing the product reviews into our newly created cloud database in pgAdmin. There were a variety of product datasets to choose from, ranging from apparel to consumer electronics. However, in our analysis, we are focusing on software product reviews. The purpose of our project is to determine if there is any bias in the reviews coming from members that are part of the Amazon Vine program and to explore the efficacy of big data technologies coupled with cloud computing resources. 
 ## Resources
 - Google Colab
 - Apache Spark & PySpark
