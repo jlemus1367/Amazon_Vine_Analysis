@@ -20,9 +20,20 @@ The following queries highlight the successful ETL process:
 <img src="images/vine.png" width=450>
 </p> 
 
+<h3 align="center"> Vine Program Analysis </h3>
+<p align = "center">
+ <img src="images/vine_results.png" width=575>
+</p>
+ 
 - There are a total of 248 reviews from products included in the vine program.
   - Of those 248 reviews, 102 are five-star reviews, which amounts to roughly 41 % of total reviews.
 
+<h3 align="center"> Non-Vine Program Analysis </h3>
+<p align = "center">
+ <img src="images/non_vine_results.png" width=575>
+</p>
+ 
 - There are a total of 17,514 reviews from products that are not part of the vine program.
   - Of those 17,514 reviews, 5,154 are five-star reviews, which amounts to roughly 29 % of total reviews.
+
 ## Summary
