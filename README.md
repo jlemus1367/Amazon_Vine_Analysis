@@ -8,5 +8,9 @@ We used the relational database service provided by AWS to create a cloud-hosted
 - pgAdmin & PostgreSQL 
 - AWS
 ## Results
+- There are a total of 248 reviews from products included in the vine program.
+  - Of those 248 reviews, 102 are five-star reviews, which amounts to roughly 41 % of total reviews.
 
+- There are a total of 17,514 reviews from products that are not part of the vine program.
+  - Of those 17,514 reviews, 5,154 are five-star reviews, which amounts to roughly 29 % of total reviews.
 ## Summary
