@@ -8,12 +8,7 @@ We used the relational database service provided by AWS to create a cloud-hosted
 - pgAdmin & PostgreSQL 
 - AWS
 ## Results
-The following queries highlight the successful ETL process:
-
-<p align = "center">
-<img src="images/customers.png" width=450>
-<img src="images/products.png" width=450>
-</p>          
+The following example queries highlight the successful ETL process:         
 
 <p align = "center">
 <img src="images/review.png" width=400>
