@@ -11,7 +11,8 @@ We used the relational database service provided by AWS to create a cloud-hosted
 The following example queries highlight the successful ETL process:         
 
 <p align = "center">
-<img src="images/review.png" width=400><img src="images/vine.png" width=450>
+<img src="images/review.png" width=350>
+ <img src="images/vine.png" width=400>
 </p> 
 
 <h3 align="center"> Vine Program Analysis </h3>
